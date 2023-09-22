@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\bin\Debug\Lap04-03.exe.config
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\bin\Debug\Lap04-03.exe
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\bin\Debug\Lap04-03.pdb
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04-03.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04_03.Form1.resources
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04_03.Form2.resources
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04_03.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04-03.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04-03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04-03.exe
+C:\Users\Administrator\source\repos\Lap04-03\Lap04-03\obj\Debug\Lap04-03.pdb

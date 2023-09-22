@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.Form1.resources
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\bin\Debug\BaiTapBuoi3.exe.config
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\bin\Debug\BaiTapBuoi3.exe
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\bin\Debug\BaiTapBuoi3.pdb
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.exe
+C:\Users\Administrator\source\repos\BaiTapBuoi3\BaiTapBuoi3\obj\Debug\BaiTapBuoi3.pdb
